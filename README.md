@@ -11,6 +11,6 @@ I'm an engineer familiar with full stack yet focused on frontend. All my persona
 [![Baileigh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bai1eigh)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact me!
-![My Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)
+![My Portfolio](https://baileighbrown.github.io/responsive-portfolio/)(https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
