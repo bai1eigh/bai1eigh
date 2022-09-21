@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Baileigh
 
  `Chronically Online (Coding | Design)` 
- ![coding cat]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png ](https://tenor.com/view/type-cat-typing-work-gif-11747627))
+ [![coding cat]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png ](https://tenor.com/view/type-cat-typing-work-gif-11747627))](https://tenor.com/view/type-cat-typing-work-gif-11747627)
 I'm an engineer familiar with full stack yet focused on frontend. All my personal coding projects are built from the ground up, from planning and designing all the way to the acutual code itself. Here you will find my homework assignmnets, personal projects, and practice work. 
  
  ## Tools 🔨
