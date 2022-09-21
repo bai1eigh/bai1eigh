@@ -9,3 +9,6 @@ I'm an engineer familiar with full stack yet focused on frontend. All my persona
 
 ## 📊 Stats
 [![Baileigh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bai1eigh)](https://github.com/anuraghazra/github-readme-stats)
+
+## Contact me!
+![Portfolio]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white))
